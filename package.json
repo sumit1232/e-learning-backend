@@ -18,5 +18,8 @@
     "nodemailer": "^6.7.8",
     "nodemon": "^2.0.16",
     "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
   }
 }
